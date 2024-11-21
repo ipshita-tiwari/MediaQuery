@@ -24,3 +24,12 @@ h1{
     }
     
 }
+@media (min-width: 1024px) { 
+    body{
+        background-color: blueviolet;
+    }
+    h1{
+        color: yellow;
+    }
+    
+}
